@@ -1,0 +1,6 @@
+Implemented Code on Plant disease classification using various Deep Learning Techniques.
+#Try this on your own System/Machine, Try to make a new Deep Learning model with Design of Algorithm.
+
+1) https://www.kaggle.com/code/ahmedmsaber/plant-disease-classification-resnet-99-2 
+
+2) https://www.kaggle.com/code/golammostofas/identifying-diseases-of-various-plants-using-cnn  
